@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on web game named "Chain Reaction".
+- 🌱 I’m currently learning web development.
 
 <!--
 **Preypatel2413/Preypatel2413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
